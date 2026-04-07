@@ -1,12 +1,11 @@
 name: CONTRIBUTING.md
-description: Guidelines for contributing to a project, including coding standards,
-  pull request processes, issue reporting, and development setup instructions.
+description: Guidelines for contributing to a project, including coding standards, pull request processes, issue reporting, and development setup instructions.
 url: ''
 tags:
-- Documentation
-- Collaboration
-- Open Source
-- Developer Guidelines
+  - Collaboration
+  - Developer Guidelines
+  - Documentation
+  - Open Source
 created: '2025-01-01'
 modified: '2026-03-16'
 apis: []
