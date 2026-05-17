@@ -2,7 +2,7 @@ aid: contributing-md
 url: >-
   https://raw.githubusercontent.com/api-evangelist/contributing-md/refs/heads/main/apis.yml
 name: CONTRIBUTING.md
-x-type: standard
+kind: standard
 description: >-
   CONTRIBUTING.md is a community health convention used by open source projects
   on GitHub and other platforms to document how external contributors can
