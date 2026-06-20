@@ -12,7 +12,7 @@ description: >-
   CONTRIBUTING.md placed in the repository root, the .github folder, or the
   docs folder, and surfaces a link to it whenever a contributor opens a new
   issue or pull request.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Code Of Conduct
   - Collaboration
@@ -35,7 +35,7 @@ apis:
       - Convention
       - Documentation
       - Markdown
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors
     properties:
       - url: https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors
@@ -75,7 +75,7 @@ apis:
       - Convention
       - GitHub
       - Open Source
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions
     properties:
       - url: https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories
