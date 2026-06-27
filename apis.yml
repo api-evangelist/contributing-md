@@ -45,7 +45,7 @@ apis:
       - url: https://opensource.guide/how-to-contribute/
         type: Guide
       - url: https://github.com/github/docs/blob/main/CONTRIBUTING.md
-        type: Example
+        type: Examples
     description: >-
       The CONTRIBUTING.md format is an unstructured Markdown convention that
       documents how to contribute to a project. GitHub recognizes the file in
@@ -108,7 +108,7 @@ common:
     url: https://contributing.md/
   - type: Guide
     url: https://opensource.guide/how-to-contribute/
-  - type: Example
+  - type: Examples
     url: https://github.com/github/docs/blob/main/CONTRIBUTING.md
 
 maintainers:
