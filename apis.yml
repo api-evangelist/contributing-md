@@ -33,6 +33,17 @@ tags:
   - Documentation
   - GitHub
   - Markdown
+  - Open-Source
+  - Pull Requests
+  - Repository
+tags_raw:
+  - Code Of Conduct
+  - Collaboration
+  - Community Health
+  - Developer Guidelines
+  - Documentation
+  - GitHub
+  - Markdown
   - Open Source
   - Pull Requests
   - Repository
@@ -43,6 +54,11 @@ apis:
   - aid: contributing-md:format
     name: CONTRIBUTING.md Format
     tags:
+      - Community Health
+      - Conventions
+      - Documentation
+      - Markdown
+    tags_raw:
       - Community Health
       - Convention
       - Documentation
@@ -83,6 +99,11 @@ apis:
   - aid: contributing-md:related-conventions
     name: CONTRIBUTING.md Related Conventions
     tags:
+      - Community Health
+      - Conventions
+      - GitHub
+      - Open-Source
+    tags_raw:
       - Community Health
       - Convention
       - GitHub
