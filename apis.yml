@@ -149,6 +149,12 @@ apis:
       - Standardizing contribution conventions across many repositories
 
 common:
+  - type: Plans
+    url: plans/contributing-md-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/contributing-md-rate-limits.yml
+  - type: FinOps
+    url: finops/contributing-md-finops.yml
   - type: Documentation
     url: https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors
   - type: Reference
