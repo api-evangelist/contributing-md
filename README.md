@@ -1,4 +1,4 @@
-# CONTRIBUTING.md (contributing-md)
+# CONTRIBUTING.md
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,94 +66,57 @@
 
 CONTRIBUTING.md is a community health convention used by open source projects on GitHub and other platforms to document how external contributors can participate. The file communicates contribution guidelines, pull request processes, issue reporting procedures, coding standards, development setup, testing expectations, and code of conduct references. GitHub recognizes CONTRIBUTING.md placed in the repository root, the .github folder, or the docs folder, and surfaces a link to it whenever a contributor opens a new issue or pull request.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/contributing-md/refs/heads/main/apis.yml)
+**Areas:** Code Of Conduct · Collaboration · Community Health · Developer Guidelines · Documentation · GitHub · Markdown · Open Source · Pull Requests · Repository
 
-## Type
+## CONTRIBUTING.md on APIs.io
 
-- **x-type:** standard
+Everything profiled for CONTRIBUTING.md is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/contributing-md/](https://apis.io/providers/contributing-md/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (2)
 
- - Code Of Conduct, Collaboration, Community Health, Developer Guidelines, Documentation, GitHub, Markdown, Open Source, Pull Requests, Repository
+- [CONTRIBUTING.md Format](https://apis.io/apis/contributing-md/format/) — The CONTRIBUTING.md format is an unstructured Markdown convention that documents how to contribute to a project. GitHub recognizes the file in three…
+- [CONTRIBUTING.md Related Conventions](https://apis.io/apis/contributing-md/related-conventions/) — CONTRIBUTING.md is one of several community health files GitHub looks for when scoring a repository community profile. Sibling files include README.md,…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Plans and pricing (1)
 
-### CONTRIBUTING.md Format
+Published plans, tiers and prices.
 
-The CONTRIBUTING.md format is an unstructured Markdown convention that documents how to contribute to a project. GitHub recognizes the file in three locations checked in priority order: the .github folder, the repository root, and the docs folder. When a contributor opens an issue or pull request, GitHub automatically links to the file. Typical sections include contribution workflow, development setup, branch and commit conventions, code style, testing, pull request review process, code of conduct reference, and licensing terms.
+- [Contributing Md Plans Pricing](https://apis.io/plans/contributing-md/contributing-md-plans-pricing/)
 
-**Human URL:** [https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+#### Rate limits (1)
 
-#### Tags:
+Published request limits.
 
- - Community Health, Convention, Documentation, Markdown
+- [Contributing Md Rate Limits](https://apis.io/rate-limits/contributing-md/contributing-md-rate-limits/)
 
-#### Properties
+#### FinOps (1)
 
-- [Documentation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
-- [Reference](https://contributing.md/)
-- [Guide](https://opensource.guide/how-to-contribute/)
-- [Example](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
+What the API costs to run, by operation.
 
-#### Features
+- [Contributing Md Finops](https://apis.io/finops/contributing-md/contributing-md-finops/)
 
-- Triggers contribution prompt on new issues and pull requests
-- Recognized by GitHub, GitLab, Bitbucket, and Gitea
-- Pairs with CODE_OF_CONDUCT.md, ISSUE_TEMPLATE, and PULL_REQUEST_TEMPLATE
-- Can live in repository root, .github, or docs directory
-- Often references a Developer Certificate of Origin or CLA process
+## Where to find this API
 
-#### Use Cases
-
-- Onboarding first-time contributors to an open source project
-- Documenting fork-and-pull workflow expectations
-- Defining branch naming, commit message, and review conventions
-- Specifying local development setup and required toolchains
-- Linking to community resources such as Discord, mailing lists, or forums
-
-### CONTRIBUTING.md Related Conventions
-
-CONTRIBUTING.md is one of several community health files GitHub looks for when scoring a repository community profile. Sibling files include README.md, LICENSE, CODE_OF_CONDUCT.md, SECURITY.md, SUPPORT.md, and issue and pull request templates. Together these conventions establish a well-formed, welcoming open source project that lowers the barrier for new contributors.
-
-**Human URL:** [https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions)
-
-#### Tags:
-
- - Community Health, Convention, GitHub, Open Source
-
-#### Properties
-
-- [Documentation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories)
-- [Reference](https://www.contributor-covenant.org/)
-- [Documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests)
-
-#### Features
-
-- Recognized as part of the GitHub community profile checklist
-- Composable with CODE_OF_CONDUCT.md, SECURITY.md, and SUPPORT.md
-- Compatible with All Contributors specification for recognition
-- Often pairs with .github/ISSUE_TEMPLATE and PULL_REQUEST_TEMPLATE.md
-
-#### Use Cases
-
-- Completing the GitHub community profile health checklist
-- Defining the entire community health surface for an organization
-- Standardizing contribution conventions across many repositories
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Documentation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
-- [Reference](https://contributing.md/)
-- [Guide](https://opensource.guide/how-to-contribute/)
-- [Example](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+Not yet rated. See [apis.io/providers/contributing-md/](https://apis.io/providers/contributing-md/).
 
-**Email:** kin@apievangelist.com
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CONTRIBUTING.md: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/contributing-md/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
